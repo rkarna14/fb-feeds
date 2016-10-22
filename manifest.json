@@ -1,0 +1,12 @@
+{
+  "name": "sarcasm",
+  "description": "Retrieves feeds from sarcasm",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "resources/img/icon-16.png", "128": "resources/img/icon-128.png" }
+}
